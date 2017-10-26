@@ -18,6 +18,9 @@ Group Leader: Cristian Quiza<br>
 ![alt text][img12]Checkout 2
 ![alt text][img13]Wishing
 ![alt text][img14]Account
+![alt text][img15]Poster
+
+
 
 [img1]:https://github.com/Kirisaite/e-commerce-website-rcamia/blob/master/home.PNG
 [img2]:https://github.com/Kirisaite/e-commerce-website-rcamia/blob/master/home1.PNG
@@ -38,6 +41,8 @@ Group Leader: Cristian Quiza<br>
 [img12]:https://github.com/Kirisaite/e-commerce-website-rcamia/blob/master/checkout2.PNG
 
 [img13]:https://github.com/Kirisaite/e-commerce-website-rcamia/blob/master/wishlist.PNG
+
+[img15]:https://github.com/Kirisaite/e-commerce-website-rcamia/blob/master/RCamia.png
 
 [img14]:https://github.com/Kirisaite/e-commerce-website-rcamia/blob/master/my_account.PNG
 
