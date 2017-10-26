@@ -33,9 +33,9 @@
 [img11]:https://github.com/Kirisaite/e-commerce-website-rcamia/blob/master/checkout1.PNG
 [img12]:https://github.com/Kirisaite/e-commerce-website-rcamia/blob/master/checkout2.PNG
 
-[img1]:https://github.com/Kirisaite/e-commerce-website-rcamia/blob/master/wishlist.PNG
+[img13]:https://github.com/Kirisaite/e-commerce-website-rcamia/blob/master/wishlist.PNG
 
-[img1]:https://github.com/Kirisaite/e-commerce-website-rcamia/blob/master/my_account.PNG
+[img14]:https://github.com/Kirisaite/e-commerce-website-rcamia/blob/master/my_account.PNG
 
 
 
