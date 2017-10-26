@@ -1,4 +1,8 @@
 # e-commerce-website-rcamia
+Group Leader: Cristian Quiza
+      Members: Dan Mark Saludo
+               Chyrine Cortez
+
 
 ![alt text][img1]Home
 ![alt text][img2]Home 1
